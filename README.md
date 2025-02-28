@@ -1,0 +1,1 @@
+Please follow the steps in https://medium.com/@lavanya-siliveri/automated-start-and-stop-oracle-integration-instance-using-oci-scheduling-functions-45ecb7d275a4 to start and stop OIC instances using OCI Scheduled Functions
